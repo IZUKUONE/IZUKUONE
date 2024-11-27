@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jorge Carvalho
+# 👨🏽‍💻 Jorge Carvalho
 
 **`Desenvolvedor Back-End`**
 
