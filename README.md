@@ -6,7 +6,7 @@ Me chamo Jorge Carvalho, tenho 20 anos e sou natural de Pernambuco. Atualmente, 
 
 - 🌱 Atualmente estou na faculdade, estudando ciência da computação.
 - 🎯 Meu objetivo é me tornar um desenvolvedor back-end.
-- 📫 Como entrar em contato comigo: joorgeluis110@gmail.com.
+- 📫 Como entrar em contato comigo: carvalhojorge501@gmail.com.
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ---
