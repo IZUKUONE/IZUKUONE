@@ -15,6 +15,22 @@ Me chamo Jorge Carvalho, tenho 20 anos e sou natural de Pernambuco. Atualmente, 
 
 <img 
     align="left" 
+    alt="Java" 
+    title="java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"          
+/> 
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -53,22 +69,5 @@ Me chamo Jorge Carvalho, tenho 20 anos e sou natural de Pernambuco. Atualmente, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Java" 
-    title="java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"          
-/> 
-
 <br/>
 <br/>
