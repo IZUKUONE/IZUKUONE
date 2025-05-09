@@ -1,17 +1,17 @@
 # 👨🏽‍💻 Jorge Carvalho
 
-**`Desenvolvedor Back-End`**
+**`Back-End Developer`**
 
-Me chamo Jorge Carvalho, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciência da Computação. Sou apaixonado por tecnologia e tento sempre está por dentro das novas tecnologias.
+My name is Jorge Carvalho, I am 20 years old, and I am from Pernambuco. Currently, I am pursuing a degree in Computer Science. I am passionate about technology and always strive to stay up to date with the latest innovations.
 
-- 🌱 Atualmente estou na faculdade, estudando ciência da computação.
-- 🎯 Meu objetivo é me tornar um desenvolvedor back-end.
-- 📫 Como entrar em contato comigo: carvalhojorge501@gmail.com.
+- 🌱 I am currently in college, studying computer science.
+- 🎯 My goal is to become a back-end developer.
+- 📫 How to contact me: carvalhojorge501@gmail.com.
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
