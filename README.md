@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-My name is Jorge Carvalho, I am 20 years old, and I am from Pernambuco. Currently, I am pursuing a degree in Computer Science. I am passionate about technology and always strive to stay up to date with the latest innovations.
+My name is Jorge Carvalho, I am 21 years old, and I am from Pernambuco. Currently, I am pursuing a degree in Computer Science. I am passionate about technology and always strive to stay up to date with the latest innovations.
 
 - 🌱 I am currently in college, studying computer science.
 - 🎯 My goal is to become a back-end developer.
